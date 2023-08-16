@@ -1,1 +1,0 @@
-/home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/lib/pkgconfig/udp_manager.pc
