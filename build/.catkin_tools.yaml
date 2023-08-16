@@ -1,0 +1,6 @@
+devel_space: /home/celil/my_workspace/remote_turtle/devel
+install: false
+install_space: /home/celil/my_workspace/remote_turtle/install
+profile: default
+source_space: /home/celil/my_workspace/remote_turtle/src
+workspace: /home/celil/my_workspace/remote_turtle
