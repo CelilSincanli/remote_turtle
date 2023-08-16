@@ -1,8 +1,0 @@
-[35m[1mScanning dependencies of target udp_server[0m
-[35m[1mScanning dependencies of target udp_client[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/udp_client.dir/src/client/udp_client.cpp.o[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/udp_server.dir/src/server/udp_server.cpp.o[0m
-[ 75%] [32m[1mLinking CXX executable /home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/lib/udp_manager/udp_client[0m
-[100%] [32m[1mLinking CXX executable /home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/lib/udp_manager/udp_server[0m
-[100%] Built target udp_client
-[100%] Built target udp_server

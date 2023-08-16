@@ -1,5 +1,0 @@
-Linked: (/home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/share/udp_manager/cmake/udp_managerConfig.cmake, /home/celil/my_workspace/remote_turtle/devel/share/udp_manager/cmake/udp_managerConfig.cmake)
-Linked: (/home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/share/udp_manager/cmake/udp_managerConfig-version.cmake, /home/celil/my_workspace/remote_turtle/devel/share/udp_manager/cmake/udp_managerConfig-version.cmake)
-Linked: (/home/celil/my_workspace/remote_turtle/devel/.private/udp_manager/lib/pkgconfig/udp_manager.pc, /home/celil/my_workspace/remote_turtle/devel/lib/pkgconfig/udp_manager.pc)
-Symlinking /home/celil/my_workspace/remote_turtle/devel/lib/udp_manager/udp_server
-Symlinking /home/celil/my_workspace/remote_turtle/devel/lib/udp_manager/udp_client
