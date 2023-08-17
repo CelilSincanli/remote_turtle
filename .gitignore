@@ -7,3 +7,4 @@ devel/
 **/.vscode/*
 .catkin_tools/
 **/cmake-build-debug/*
+src/build-remote_turtle_controller-Desktop-Debug/*
